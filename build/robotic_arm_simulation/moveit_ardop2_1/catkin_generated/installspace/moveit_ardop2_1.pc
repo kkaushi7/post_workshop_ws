@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/post_workshop_ws/install
+
+Name: moveit_ardop2_1
+Description: Description of moveit_ardop2_1
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

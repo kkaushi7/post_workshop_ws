@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ubuntu/post_workshop_ws/install/setup.sh

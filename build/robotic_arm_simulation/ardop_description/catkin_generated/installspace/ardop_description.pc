@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/post_workshop_ws/install
+
+Name: ardop_description
+Description: Description of ardop_description
+Version: 2.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
